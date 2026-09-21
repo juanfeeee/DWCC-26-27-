@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: url('../img/meme-ete8bd6yl8pkzukg.jpg')
+}
+
+h1 {
+  color: #adda64;
+}
+ 
+p {
+  color:aquamarine;
+}
+img {
+  border: 25px solid #adda64;
+  margin: 50px;
+  width: 100px;
+  height: 100px;
+}
